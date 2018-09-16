@@ -6,7 +6,7 @@ Displays Hello from Jonathan! and gives user multiple buttons to click that chan
 
 ### App Walk-though
 
-<img src="https://github.com/Jonathan-Harty/Code-Path-Prework-Project/blob/master/codePathPreWorkProject.gif" width=200><br>
+<img src="https://github.com/Jonathan-Harty/Code-Path-Prework-Project/blob/master/codePathPreWork.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
